@@ -141,7 +141,7 @@ body {
 }
 
 .hero-button {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.06em;
@@ -169,7 +169,6 @@ body {
 }
 
 .benefits-element p {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -194,7 +193,6 @@ body {
 }
 
 .team-element p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
   /*text-align: center;*/
@@ -235,7 +233,6 @@ body {
 }
 
 .portofolio-element p {
-  font-weight: normal;
   font-size: 16px;
   line-height: 1.8;
   letter-spacing: 0.03em;
