@@ -40,7 +40,7 @@ body {
 }
 
 .button {
-  font-style: inherit;
+  font-family: inherit;
   cursor: pointer;
 }
 
